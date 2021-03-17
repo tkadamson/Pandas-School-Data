@@ -94,7 +94,7 @@ A similar process was used for the grouping by school size. These bins were defi
 The final analysis of observable trends are shown below and also in markdown cells in the code file.
 
 
-## Anlysis
+## Analysis
 
 #### Observable Trend 1:
 
