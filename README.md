@@ -1,6 +1,9 @@
-# hw4-pandas-school-data
+# Pandas-School-Data
 
-#### GRADE: A
+### Summary | GRADE: A
+For this project I was given starter csv's containing data from a fictional school district, which included data about each school and each student. I used the Python module Pandas to aggregate the data in a variety of dataframes to provide more insight, See below on the exact dataframes I created and an analysis of the final product.
+
+### Project Writeup
 
 The first step was importing dependencies and loading in the csvs to a pandas dataframe. I also created new boolean columns that indicated whether a student passed reading and math exams. This made it easier to filter later on.
 
@@ -19,7 +22,7 @@ A similar process was used for the grouping by school size. These bins were defi
 The final analysis of observable trends are shown below and also in markdown cells in the code file.
 
 
-## Analysis
+### Analysis
 
 #### Observable Trend 1:
 
